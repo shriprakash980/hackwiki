@@ -1,2 +1,3 @@
 # hackwiki
-this is my first repository 
+This is My New Repositiory.
+Author : Shriprakash Shukla
